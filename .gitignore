@@ -1,3 +1,11 @@
+#Ignore all of these files
+
+#Jupyter files
+**.ipynb_checkpoints
+**/.ipynb_checkpoints/*
+**ipython_config.py
+**-checkpoint.ipynp
+
 # Compiled source #
 ###################
 *.com
