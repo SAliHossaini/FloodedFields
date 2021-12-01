@@ -1,6 +1,6 @@
 # A Real-time Modeling System of Croplands Affected by Extreme Flooding 
 
-Authors: Ali Hossaini 
+Author: Ali Hossaini 
 
 Contact information: hossa084@umn.edu
 
